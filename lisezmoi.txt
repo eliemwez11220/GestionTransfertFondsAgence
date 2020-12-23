@@ -1,0 +1,24 @@
+--------------------Compte administrateur---------
+username:admin
+password:admin01
+
+----------------Configuration------------------------
+Compresser le projet dans un dossier sous le nom de 
+transfertMoney l'ensemble de fichier qui le constitue
+et aller dans le dossier database copier le nom du 
+fichier de la base de donnees et creer une base de 
+donnees sur votre serveur web puis importer toute 
+la structure de la base de donnees sans changer aucune
+autre configuration et lancer l'application 
+en saisissant: http://localhost/transfertMoney/
+
+Done ! 
+
+En cas de besoin n'hesitez pas de contacter le dev.
+
+-------------------------------------My name is----------------
+Elie Mwez 
+send me your email to:
+eliemwez.rubuz@gmail.com
+
+From Lubumbashi in D.R.Congo
